@@ -2,7 +2,6 @@ clc  % clear command window
 clear all  % clear Workspace
 
 %%
-
 r= input('Enter a radus of sphere:');
 P=pi;
 D=2*r;
