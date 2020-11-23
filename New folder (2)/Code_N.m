@@ -15,18 +15,18 @@ clear all  % clear Workspace
 A=input('Enter the first number :');
 B=input('Enter the second number :');
 C=input('Enter the tirthd number :');
-Max=A;
-if (B>A & B>C)
-    Max=B;
-    M=A;
-    N=C;
-elseif (C>A & C>B)B>A & B>C
-    Max=C;
+if (A>B & A>C)
+    Max=A;
     M=B;
+    N=C;
+elseif (B>A & B>C)
+    Max=B;
+    M=C;
     N=A;
 else
-    
+   Max=C;
+    M=B;
+    N=A; 
 end
-disp('The subtraction of min from max is :');
-N= min -max;
-N
+D= (M+N)-Max;
+D
