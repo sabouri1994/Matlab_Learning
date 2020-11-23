@@ -5,28 +5,17 @@
 % Github:     https://github.com/sabouri1994
 %----------------------------------------------------------
 % Program Description:
-% A program that receives 3 numbers and adds 2 smaller numbers and subtracts the larger number
+% A program that receives a number as a radius and the area between the circle and the square of the perimeter
 
 %%
 
 clc  % clear command window
 clear all  % clear Workspace
 %%
-A=input('Enter the first number :');
-B=input('Enter the second number :');
-C=input('Enter the tirthd number :');
-if (A>B & A>C)
-    Max=A;
-    M=B;
-    N=C;
-elseif (B>A & B>C)
-    Max=B;
-    M=C;
-    N=A;
-else
-   Max=C;
-    M=B;
-    N=A; 
-end
-D= (M+N)-Max;
-D
+R=input('Enter the radius of circle :');
+
+a=2*R;
+S1=a^2;
+S2=pi*R^2;
+S=S2-S1;
+fprintf('the area between square and circle is (%d)',S)
