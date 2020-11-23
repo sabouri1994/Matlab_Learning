@@ -1,6 +1,7 @@
 clc  % clear command window
 clear all  % clear Workspace
 %%
+
 A=zeros(5,1);
 positive=0;
 negative=0;
