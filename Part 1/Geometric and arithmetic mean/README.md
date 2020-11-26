@@ -8,15 +8,15 @@ November 2020
 
 ----------------------------------------------------------
 
- Linkedin:   https://www.linkedin.com/in/mohammadsabouri/
+Linkedin:   https://www.linkedin.com/in/mohammadsabouri/
  
- Github:     https://github.com/sabouri1994
+Github:     https://github.com/sabouri1994
  
 ----------------------------------------------------------
 
- Program Description:
+Program Description:
  
- A program that takes 2 numbers from the input and calculates their geometric mean and then adds it to the arithmetic mean
+A program that takes 2 numbers from the input and calculates their geometric mean and then adds it to the arithmetic mean
 
 %%
 
