@@ -1,6 +1,7 @@
 clc
 clear all
 %%
+
 A= input('Enter a first number:');
 B= input('Enter a second number:');
 

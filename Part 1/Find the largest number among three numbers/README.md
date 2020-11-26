@@ -1,5 +1,19 @@
 # Find the largest number among three numbers
 
+# Matlab
+
+ This code created by "Mohammad Sabouri"
+
+ November 2020
+
+----------------------------------------------------------
+
+ Linkedin:   https://www.linkedin.com/in/mohammadsabouri/
+
+ Github:     https://github.com/sabouri1994
+ 
+----------------------------------------------------------
+
 Three numbers are received from the input and a larger number is found and printed between them
 
 
