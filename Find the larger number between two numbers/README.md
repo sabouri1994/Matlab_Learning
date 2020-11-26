@@ -1,5 +1,17 @@
 # Find the larger number between two numbers
 
+ This code created by "Mohammad Sabouri"
+
+ November 2020
+
+----------------------------------------------------------
+
+ Linkedin:   https://www.linkedin.com/in/mohammadsabouri/
+
+ Github:     https://github.com/sabouri1994
+ 
+----------------------------------------------------------
+
 A program that receives two different numbers from the input and displays a larger number and calculates the difference between the two numbers
 
 
