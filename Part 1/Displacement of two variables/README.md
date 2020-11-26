@@ -16,9 +16,9 @@ Receives two different numbers from the input and places them in A and B. Now mo
 
 ----------------------------------------------------------
 
-clc  % clear command window
+clc  %clear command window
 
-clear all  % clear Workspace
+clear all  %clear Workspace
 
 %%
 
