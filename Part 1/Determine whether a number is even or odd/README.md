@@ -16,9 +16,9 @@ Receives a number from the input and determines whether it is even or odd
 
 ----------------------------------------------------------
 
-clc  % clear command window
+clc  %clear command window
 
-clear all  % clear Workspace
+clear all  %clear Workspace
 
 %%
 
