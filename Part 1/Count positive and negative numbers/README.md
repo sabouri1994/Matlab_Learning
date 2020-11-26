@@ -4,6 +4,17 @@
 
 Receive 5 numbers from the input and report the number of positive and negative numbers
 
+This code created by "Mohammad Sabouri"
+
+November 2020
+
+---------------------------------------------------------
+
+Linkedin: https://www.linkedin.com/in/mohammadsabouri/
+
+Github: https://github.com/sabouri1994
+
+---------------------------------------------------------
 
 clc  % clear command window
 
