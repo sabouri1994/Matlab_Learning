@@ -1,5 +1,21 @@
 # The result of four basic mathematical operations
+
+# Matlab
+
 A program that receives two numbers from the input and performs four main operations on them and outputs the output.
+
+
+This code created by "Mohammad Sabouri"
+
+November 2020
+
+----------------------------------------------------------
+
+ Linkedin:   https://www.linkedin.com/in/mohammadsabouri/
+ 
+ Github:     https://github.com/sabouri1994
+ 
+----------------------------------------------------------
 
 clc
 
