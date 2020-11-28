@@ -4,9 +4,9 @@
 
 A program that receives a number as a radius and the area between the circle and the square of the perimeter
 
- This code created by "Mohammad Sabouri"
+This code created by "Mohammad Sabouri"
 
- November 2020
+November 2020
 
 ----------------------------------------------------------
 
