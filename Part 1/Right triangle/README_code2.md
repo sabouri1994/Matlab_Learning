@@ -6,6 +6,20 @@ A program that takes the size of the 3 sides of a triangle and determines whethe
 # Without knowing the information of the sides
 
 
+This code created by "Mohammad Sabouri"
+
+November 2020
+
+----------------------------------------
+
+Linkedin: https://www.linkedin.com/in/mohammadsabouri/
+
+Github: https://github.com/sabouri1994
+
+--------------------------------------------
+
+
+
 clc  % clear command window
 
 clear all  % clear Workspace
