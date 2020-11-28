@@ -1,18 +1,25 @@
 # Rooting a quadratic equation
+
 # MATLAB
 
 A program that takes the coefficients of a quadratic equation and discusses its roots
 
 
+This code created by "Mohammad Sabouri"
 
-% This code created by "Mohammad Sabouri"
-% November 2020
-%----------------------------------------------------------
-% Linkedin:   https://www.linkedin.com/in/mohammadsabouri/
-% Github:     https://github.com/sabouri1994
-%----------------------------------------------------------
-% Program Description:
-% A program that takes the coefficients of a quadratic equation and discusses its roots 
+November 2020
+
+----------------------------------------------------------
+
+Linkedin:   https://www.linkedin.com/in/mohammadsabouri/
+
+Github:     https://github.com/sabouri1994
+
+----------------------------------------------------------
+
+Program Description:
+
+A program that takes the coefficients of a quadratic equation and discusses its roots 
 
 %%
 
