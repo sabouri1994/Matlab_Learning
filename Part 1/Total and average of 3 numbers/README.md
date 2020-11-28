@@ -1,7 +1,20 @@
 # Total and average of 3 numbers
+
 # MATLAB
 
 Receives 3 numbers from the input and calculates the sum and average of those that are positive
+
+This code created by "Mohammad Sabouri"
+
+November 2020
+
+----------------------------------------------------------
+
+ Linkedin:   https://www.linkedin.com/in/mohammadsabouri/
+ 
+ Github:     https://github.com/sabouri1994
+ 
+----------------------------------------------------------
 
 clc  % clear command window
 
