@@ -1,16 +1,24 @@
 # The difference between the three numbers
+
 # MATLAB
 
 A program that receives 3 numbers and adds 2 smaller numbers and subtracts the larger number
 
-% This code created by "Mohammad Sabouri"
-% November 2020
-%----------------------------------------------------------
-% Linkedin:   https://www.linkedin.com/in/mohammadsabouri/
-% Github:     https://github.com/sabouri1994
-%----------------------------------------------------------
-% Program Description:
-% A program that receives 3 numbers and adds 2 smaller numbers and subtracts the larger number
+This code created by "Mohammad Sabouri"
+
+November 2020
+
+----------------------------------------------------------
+
+Linkedin:   https://www.linkedin.com/in/mohammadsabouri/
+
+Github:     https://github.com/sabouri1994
+
+----------------------------------------------------------
+
+Program Description:
+
+A program that receives 3 numbers and adds 2 smaller numbers and subtracts the larger number
 
 %%
 
