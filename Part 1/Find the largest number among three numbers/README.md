@@ -2,15 +2,15 @@
 
 # Matlab
 
- This code created by "Mohammad Sabouri"
+This code created by "Mohammad Sabouri"
 
- November 2020
+November 2020
 
 ----------------------------------------------------------
 
- Linkedin:   https://www.linkedin.com/in/mohammadsabouri/
+Linkedin:   https://www.linkedin.com/in/mohammadsabouri/
 
- Github:     https://github.com/sabouri1994
+Github:     https://github.com/sabouri1994
  
 ----------------------------------------------------------
 
