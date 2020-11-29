@@ -6,7 +6,6 @@
 %----------------------------------------------------------
 % Program Description:
 % A program that receives a number as a radius and the area between the circle and the square of the perimeter
-
 %%
 
 clc  % clear command window
