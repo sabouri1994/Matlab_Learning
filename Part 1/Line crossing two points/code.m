@@ -7,7 +7,6 @@
 % Program Description:
 % A program that calculates the slope of a line passing through two points
 % by receiving the coordinates of four points and checks whether it is perpendicular to the other two points or not.
-
 %%
 
 clc  % clear command window
