@@ -6,7 +6,6 @@
 %----------------------------------------------------------
 % Program Description:
 % The program that receives and determines the day and month of the year is today the fewest days of the year
-
 %%
 
 clc  % clear command window
