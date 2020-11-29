@@ -6,7 +6,6 @@
 %----------------------------------------------------------
 % Program Description:
 % A program that takes 2 numbers from the input and calculates their geometric mean and then adds it to the arithmetic mean
-
 %%
 
 clc  % clear command window
