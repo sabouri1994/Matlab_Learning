@@ -1,14 +1,9 @@
 
- %This code created by "Mohammad Sabouri"
-
- %November 2020
-
+%This code created by "Mohammad Sabouri"
+%November 2020
 %----------------------------------------------------------
-
- %Linkedin:   https://www.linkedin.com/in/mohammadsabouri/
-
+%Linkedin:   https://www.linkedin.com/in/mohammadsabouri/
 % Github:     https://github.com/sabouri1994
- 
 %----------------------------------------------------------
 
 clc
