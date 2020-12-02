@@ -6,7 +6,9 @@
 %----------------------------------------------------------
 % Program Description:
 % A program that receives two numbers from the input and subtracts the smaller number from the larger number
+
 %%
+
 clc  % clear command window
 clear all  % clear Workspace
 
