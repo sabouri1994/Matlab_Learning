@@ -6,7 +6,6 @@
 %----------------------------------------------------------
 % Program Description:
 % A program that receives 3 numbers and adds 2 smaller numbers and subtracts the larger number
-
 %%
 
 clc  % clear command window
