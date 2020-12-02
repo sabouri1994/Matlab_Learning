@@ -6,7 +6,9 @@
 %----------------------------------------------------------
 % Program Description:
 % A program that takes the coefficients of a quadratic equation and discusses its roots 
+
 %%
+
 clc  % clear command window
 clear all  % clear Workspace
 %%
