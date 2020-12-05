@@ -10,7 +10,9 @@
 
 clc  % clear command window
 clear all  % clear Workspace
+
 %%
+
 k=0;
 M=input('Enter a number :');
 for i=6:6:M
