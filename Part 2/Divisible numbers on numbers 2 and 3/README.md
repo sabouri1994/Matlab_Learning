@@ -2,21 +2,21 @@
 
 # MATLAB
 
-% This code created by "Mohammad Sabouri"
+This code created by "Mohammad Sabouri"
 
-% December 2020
+December 2020
 
-%----------------------------------------------------------
+----------------------------------------------------------
 
-% Linkedin:   https://www.linkedin.com/in/mohammadsabouri/
+Linkedin:   https://www.linkedin.com/in/mohammadsabouri/
 
-% Github:     https://github.com/sabouri1994
+Github:     https://github.com/sabouri1994
 
-%----------------------------------------------------------
+----------------------------------------------------------
 
-% Program Description:
+Program Description:
 
-% A program that calculates divisible numbers by two numbers 2 and 3 that are smaller than the number m and expresses their number
+A program that calculates divisible numbers by two numbers 2 and 3 that are smaller than the number m and expresses their number
 
 %%
 
