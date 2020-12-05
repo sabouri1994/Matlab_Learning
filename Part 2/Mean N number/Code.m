@@ -10,7 +10,9 @@
 
 clc  % clear command window
 clear all  % clear Workspace
+
 %%
+
 k=0;
 N=input('Enter a count of number :');
 for i=0:1:N
