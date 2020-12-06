@@ -2,21 +2,21 @@
 
 # MATLAB
 
-% This code created by "Mohammad Sabouri"
+This code created by "Mohammad Sabouri"
 
-% December 2020
+December 2020
 
-%----------------------------------------------------------
+----------------------------------------------------------
 
-% Linkedin:   https://www.linkedin.com/in/mohammadsabouri/
+Linkedin:   https://www.linkedin.com/in/mohammadsabouri/
 
-% Github:     https://github.com/sabouri1994
+Github:     https://github.com/sabouri1994
 
-%----------------------------------------------------------
+----------------------------------------------------------
 
-% Program Description:
+Program Description:
 
-% A program that calculates and prints the number and sum of even and odd numbers between two numbers m and n
+A program that calculates and prints the number and sum of even and odd numbers between two numbers m and n
 
 %%
 
