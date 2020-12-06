@@ -5,7 +5,7 @@
 % Github:     https://github.com/sabouri1994
 %----------------------------------------------------------
 % Program Description:
-% A program that reads 20 numbers and calculates and prints the maximum and minimum of those numbers
+% A program that takes n from the input and determines whether their unit number is 3 or not
 %%
 
 clc  % clear command window
@@ -17,7 +17,7 @@ for i=1:1:N
     A=input('Enter a number:');
     P=rem(A,10);
     if (P==3)
-        disp('The last digit of number is 3'0;
+        disp('The last digit of number is 3');
         A
     end
 end
