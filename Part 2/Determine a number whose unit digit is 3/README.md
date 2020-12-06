@@ -2,21 +2,21 @@
 
 # MATLAB
 
-% This code created by "Mohammad Sabouri"
+This code created by "Mohammad Sabouri"
 
-% December 2020
+December 2020
 
-%----------------------------------------------------------
+----------------------------------------------------------
 
-% Linkedin:   https://www.linkedin.com/in/mohammadsabouri/
+Linkedin:   https://www.linkedin.com/in/mohammadsabouri/
 
-% Github:     https://github.com/sabouri1994
+Github:     https://github.com/sabouri1994
 
-%----------------------------------------------------------
+----------------------------------------------------------
 
-% Program Description:
+Program Description:
 
-% A program that takes n from the input and determines whether their unit number is 3 or not
+A program that takes n from the input and determines whether their unit number is 3 or not
 
 %%
 
