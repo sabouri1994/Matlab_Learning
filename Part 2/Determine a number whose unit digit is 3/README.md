@@ -17,7 +17,6 @@ Github:     https://github.com/sabouri1994
 Program Description:
 
 A program that takes n from the input and determines whether their unit number is 3 or not
-
 %%
 
 clc  % clear command window
