@@ -1,5 +1,5 @@
 # Matlab_Learning
 __________________________________
 
- * Part1 --> Simple example of matlab
- * Part2 -->
+ * Part1 --> Simple example of matlab (simple command)
+ * Part2 --> 
